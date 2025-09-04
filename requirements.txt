@@ -1,0 +1,8 @@
+streamlit
+os
+geopandas
+pandas
+matplotlib
+dotenv
+httpx
+numpy
